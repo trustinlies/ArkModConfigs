@@ -127,16 +127,16 @@ The total chance for each item in this section should equal less than 1. Any rem
 ### StoneAmount=100
 How much Stone can be in a geode. 
 
-### FlintChance=0.2
+### FlintChance=0.3
 The chance you will get Flint from a geode. 
 
 ### FlintAmount=50
 How much Flint can be in a geode.
 
-### MetalChance=0.1
+### MetalChance=0.25
 The chance you will get Metal from a geode.
 
-### MetalAmount=20
+### MetalAmount=15
 How much Metal can be in a geode.
 
 ### CrystalChance=0.1
@@ -210,20 +210,14 @@ The chance that Mutton will be generated.
 ### MuttonAmount=10
 How much Mutton can be generated per tick.
 
-### PeltChance=0.2
-The chance that Pelt will be generated.
-
-### Pelt Amount=20
-How much Pelt can be generated per tick.
-
-### Wool Chance=1
+### WoolChance=1
 The chance that Wool will be generated.
 
-### Wool Amount=10
+### WoolAmount=10
 How much Wool can be generated per tick.
 
-### PeltAndWool=false
-Can the Ovus Trap generate both Pelt and Wool? If false, only wool will be generated. 
+### WoolBonusChance=0.02
+The chance that the Wool generation amount will be doubled. 
 
 ### OvusTrapCraftCostMultiplier=1
 Control the amount of materials the Ovus Trap takes to craft.
