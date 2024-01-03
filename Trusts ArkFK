@@ -1,0 +1,82 @@
+;General
+ResourceMultiplier=1
+CostMultiplier=1
+NetEnabled=true
+MineEnabled=true
+PumpEnabled=true
+CompyTrapEnabled=true
+OvusTrapEnabled=true
+NetRequireBait=true
+CompyTrapRequireBait=true
+OvusTrapRequireBait=true
+MineRequirePower=true
+PumpRequirePower=true
+
+;Fish Net
+NetTickTimeSeconds=30
+NetBaitConsumptionChance=0.75
+NetCanProduceAll=true
+AmmoniteBileChance=0.2
+AmmoniteBileAmount=2
+LeechBloodChance=0.2
+LeechBloodAmount=2
+ClamChance=1
+ClamAmount=1
+NetCraftCostMultiplier=1
+
+;Clams
+RawPrimeFishChance=0.2
+RawPrimeFishAmount=15
+PearlChance=0.2
+PearlAmount=20
+BlackPearlChance=0.05
+BlackPearlAmount=5
+
+;Geode Mine
+MineTickTimeSeconds=30
+GeodeChance=1
+GeodeAmount=1
+MineCraftCostMultiplier=1
+
+;Geodes
+FlintChance=0.2
+FlintAmount=50
+MetalChance=0.1
+MetalAmount=20
+CrystalChance=0.1
+CrystalAmount=10
+ObsidianChance=0.1
+ObsidianAmount=10
+
+;Oil Pump
+PumpTickTimeSeconds=30
+OilAmount=5
+PumpCraftCostMultiplier=1
+
+;Compy Trap
+CompyTrapTickTimeSeconds=30
+CompyBaitConsumptionChance=0.75
+CompyCanProduceAll=true
+PrimeChance=0.3
+Prime Amount=10
+Hide Chance=0.5
+Hide Amount=15
+CompyTrapCraftCostMultiplier=1
+
+;Ovus Trap
+OvusTrapTickTimeSeconds=30
+OvusBaitConsumptionChance=0.80
+OvusCanProduceAll=true
+MuttonChance=0.8
+MuttonAmount=10
+PeltChance=0.2
+PeltAmount=20
+WoolChance=1
+WoolAmount=10
+PeltAndWool=false
+OvusTrapCraftCostMultiplier=1
+
+;Bait
+CompyBaitCraftAmount=25
+OvusBaitCraftAmount=25
+FishBaitCraftAmount=15
