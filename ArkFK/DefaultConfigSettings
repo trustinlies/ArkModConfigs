@@ -25,6 +25,7 @@ ClamAmount=1
 NetCraftCostMultiplier=1
 
 ;Clams
+RawFishMeatAmount=30
 RawPrimeFishChance=0.2
 RawPrimeFishAmount=15
 PearlChance=0.2
@@ -39,6 +40,7 @@ GeodeAmount=1
 MineCraftCostMultiplier=1
 
 ;Geodes
+StoneAmount=100
 FlintChance=0.3
 FlintAmount=50
 MetalChance=0.25
@@ -57,6 +59,7 @@ PumpCraftCostMultiplier=1
 CompyTrapTickTimeSeconds=30
 CompyBaitConsumptionChance=0.75
 CompyCanProduceAll=true
+RawMeatAmount=30
 PrimeChance=0.3
 Prime Amount=10
 Hide Chance=0.5
